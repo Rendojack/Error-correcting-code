@@ -1,5 +1,5 @@
 # Error-correcting-code
-Convolutional encoder and Threshold decoder simulation.
+Convolutional encoder and direct threshold decoder.
 
 Executable file: `/Error-correcting-code/src/Release/CodingTheory.exe`
 
